@@ -75,17 +75,9 @@ Out of the 32 features given in the datasets, 20 are Continuous and 12 (includin
   <img src="https://user-images.githubusercontent.com/84115928/141269995-77714aa7-9b0c-4b11-a94c-e1639a0a743b.png">
 </p>
 
-# 🎉 Tasks performed under Time Series Analysis:
-* Extract the **"Derived Features"** from the **'Date/Time'** Feature.
-* Performed ***Time Series Analysis*** on variety of ***Use Cases*** and Analysed as following:
-  * Uber Rides by Weekdays.
-  * Uber Rides by and with respect to each and every Months.
-  * Month with Max. Rides.
-  * Uber Rides in terms of each Day.
-  * Total Rides Month-wise.
-  * Rush w.r.t. Location and Hour-wise.
-  * Popularity of Base by Months.
-  * Uber pick-ups by Months in New York City.
+# 🎉 Tasks performed under Choropleth Maps Analysis:
+* Analysed ***Countries with most guests come from*** using **'Choropleth Maps'**.
+* Moreover, Plotted a **"Choropleth Maps with Animation"** for in-depth analysis on Yearly basis.
 
 # 🌱 Some Exciting Glimpse of the Visuals:
 ![Final Glimpse 1](https://user-images.githubusercontent.com/84115928/140725706-33748c98-c5b7-4e5c-80e3-b06b9cf1e7de.gif)
@@ -106,14 +98,6 @@ For more details, please go through the Jupyter Notebook attached above.
 * Almost in Each and Every Day, mostly in the "Evening Time", we have a "Rush" whereas on "Mid-Night", we don't have any kind of "Rush".
 * Most of the 'Rush' is there on "Weekdays" rather than the "Week-ends".
   We have Majority of Rides are in "September", it might be because of Autumn Season, people go for excursions to enjoy the natural beauty.
-* "Mid-Town Manhattan" is clearly a 'Huge Bright Spot', followed by basically "Upper Manhattan" and "Heights of Brooklyn".
-* In this, "6th" Month, we have a Higher Number of Pick-up's followed by "May" and "April".
-  We can also say that, The "Number of Uber Pick-up's" has been Gradually Increases throughout the 1st Half of 2015 in "New York".
-* After the "Morning Rush", the Number of Uber Pick-up's doesn't decline much throughout the rest of the Morning and early "Afternoon" as well.
-  And There is significantly More Demand of Uber Cabs in the "Evening".
-* Base Number "B02764" is a Pioneer/Prominent. It has a Maximum Number of 'Active Vehicles' as well as it has a Maximum Number of 'Trips' as well.
-* Base Number 'B02598' and 'B02682' are definitely Performed better in terms of Demands and Supply.
-  Whereas Base 'B02512', it doesn't have that much Good Attention comparing to All other 'Base Number'.
 
 And so many more!!
 
