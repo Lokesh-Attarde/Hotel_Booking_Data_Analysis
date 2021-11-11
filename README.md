@@ -16,13 +16,6 @@
 
 # 📝Problem Statement
 Analysis of the following is required by the Sales Team of Hotel Bookings:
-- Analyze What exactly the Home Country of a Guests, What exactly Price distribution of of Room Types per Night.
-- Furthermore, Analyze trend of the Room Price, What exactly the Preference of a Guests?, Analyze Months which are having Highest Cancellations.
-
-And so many more!!
-
-
-Analysis of the following is required by the Sales Team of Hotel Bookings:
 
     1. Analyze from which Country most guests come?
     2. Country-wise Guests distribution.
@@ -85,16 +78,22 @@ Out of the 32 features given in the datasets, 20 are Continuous and 12 (includin
 ![Final Glimpse 4](https://user-images.githubusercontent.com/84115928/141303002-feaed86b-ba9c-4911-8b08-7b54317a59ef.gif)
 
 # 💡 Conclusions
-* "Rush" is definitely highest on "Thursday" followed by "Friday" and "Wednesday".
-* Rush is definitely on Peak during Evening Time when people are logging off from their Work and At the same time, people go out for hang-out or to do a Shopping.
-* "September" has the highest Rush or I would say, it has the Maximum Rides.
-  Almost in the Couple of Last Days, in Each and Every "Month", we have "Maximum Rides".
-* 'Thursday', is on the peak, whereas "Sunday" with respect to our Week-end, is on the root (bottom).
-  And, In terms of the Rush, Hour & Location-wise - In the Early Morning at 8 o'Clock of almost each & every day, we've Maximum Number of Rush at this Location (I.e. 40.745) followed by Evening at 4 o'Clock.
-* "Base" Number, which is exactly "B02617", gets Popular by Month.
-* Almost in Each and Every Day, mostly in the "Evening Time", we have a "Rush" whereas on "Mid-Night", we don't have any kind of "Rush".
-* Most of the 'Rush' is there on "Weekdays" rather than the "Week-ends".
-  We have Majority of Rides are in "September", it might be because of Autumn Season, people go for excursions to enjoy the natural beauty.
+* In terms of "Resort Hotel", "PRT" is dominated by around "35.2%" of Guests followed by "GBR" and "ESP" having "20.5%" and "10.7%" of guests respectively.
+* "PRT" (Portugal) has the Maximum Number of Guest of around '21.071K' followed by "GBR" (United Kingdom) I.e. UK and "FRA" (France) having '9.67K' and '8.48K' Number of Guests respectively.
+* There is a significant rise of Number of Guests in terms of "PRT", "GBR", and "FRA" from the Year 2015 to 2016. However, again in the Year 2016 to 2017, the Number of Guests proportion has declined rapidly.
+* "A" Category Room, are having Highest Price approx. '500 EUR'. Whereas with respect to this "G" Category Room as well, will see that 'City Hotel Rooms' are Much 'Costlier' than All other Rooms.
+* "Resort Hotel Prices" are much Higher during the 'Summer', whereas at the same time, "Prices" of a "City Hotel" doesn't varied that much.
+   On the other hand, "City Hotels" are Expensive during the 'Spring' or 'Autumn' Season (i.e. In 'May' and 'August').
+* Almost "77.3%" of the Bookings are definitely prefer 'Bed & Breakfast'. Secondly, 'Half Board' (Breakfast and Dinner) kind of Meal's were prefered by around "12.1%" of guests and "8.92%" of guests prefer 'Self-Catering' (No Meals) kind of Bookings.
+* Most of the Customers are not made any kind of 'Special Requests'.
+   Or Almost "50%" of the Bookings don't have any kind of 'Special Requests'.
+* In terms of "City Hotel", We have More Guests during the 'Autumn' & 'Spring' Season when the Prices are also 'Highest'. 
+    * Whereas In terms of our "Resort Hotel", the 'Most busiest Month' is "August" followed by "July" & "October".
+    * In a Nutshell, Will can say, both the Hotels have the Fewest Guests during the "Winter" (i.e. Jan, Nov & Dec) And although Prices are also Lower.
+* Majority of People are prefer to Stay in the "City Hotel", mostly for '3' Nights. It might because of the "Prices" of a "City Hotel" doesn't varied much when we compared it with "Resort Hotel".
+* "Online TA" is going to Dominate on each and every Category of Market Segment by '47.5%'. We can also say that, Almost "50%" of the Bookings are takes place in this "Online" way.
+* Almost "75%" of Cancel Bookings are with respect to our "City Hotel, whereas "25%" are with respect to our "Resort Hotel Bookings".
+* "August" Month has the Highest Number of Cancellations followed by "July" & "May".
 
 And so many more!!
 
