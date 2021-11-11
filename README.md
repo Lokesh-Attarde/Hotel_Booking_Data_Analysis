@@ -80,10 +80,9 @@ Out of the 32 features given in the datasets, 20 are Continuous and 12 (includin
 * Moreover, Plotted a **"Choropleth Maps with Animation"** for in-depth analysis on Yearly basis.
 
 # 🌱 Some Exciting Glimpse of the Visuals:
-
-![Glimpse 1.1](https://user-images.githubusercontent.com/84115928/141292807-6c303db3-18ad-4f1c-a2dd-ba7fa235aa54.gif) ![Glimpse 1.2](https://user-images.githubusercontent.com/84115928/141292821-09ceff13-b6d9-423e-b891-7c4507af15d7.gif)
-
-For more details, please go through the Jupyter Notebook attached above.
+![Final Glimpse 1](https://user-images.githubusercontent.com/84115928/141301079-637277f2-a00f-4808-9c38-594b22756412.gif)
+![Final Glimpse 2](https://user-images.githubusercontent.com/84115928/141341458-ef8881a7-70b4-4db5-b57e-b3d5795d184b.gif)
+![Final Glimpse 4](https://user-images.githubusercontent.com/84115928/141303002-feaed86b-ba9c-4911-8b08-7b54317a59ef.gif)
 
 # 💡 Conclusions
 * "Rush" is definitely highest on "Thursday" followed by "Friday" and "Wednesday".
