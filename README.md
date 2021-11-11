@@ -80,10 +80,8 @@ Out of the 32 features given in the datasets, 20 are Continuous and 12 (includin
 * Moreover, Plotted a **"Choropleth Maps with Animation"** for in-depth analysis on Yearly basis.
 
 # 🌱 Some Exciting Glimpse of the Visuals:
-![Final Glimpse 1](https://user-images.githubusercontent.com/84115928/140725706-33748c98-c5b7-4e5c-80e3-b06b9cf1e7de.gif)
-![Final Glimpse 2](https://user-images.githubusercontent.com/84115928/140718150-ae634d16-4d21-4250-814e-3a1b246c5996.gif)
-![Final Glimpse 3](https://user-images.githubusercontent.com/84115928/140723990-69a9eebd-e130-4ba3-93ec-75ec5857b7f6.gif)
-![Final Glimpse 4](https://user-images.githubusercontent.com/84115928/140724037-6c69ef19-e35d-45f9-89af-3f20b9852f54.gif)
+
+![Glimpse 1.1](https://user-images.githubusercontent.com/84115928/141292807-6c303db3-18ad-4f1c-a2dd-ba7fa235aa54.gif) ![Glimpse 1.2](https://user-images.githubusercontent.com/84115928/141292821-09ceff13-b6d9-423e-b891-7c4507af15d7.gif)
 
 For more details, please go through the Jupyter Notebook attached above.
 
