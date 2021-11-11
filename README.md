@@ -85,12 +85,9 @@ Out of the 32 features given in the datasets, 20 are Continuous and 12 (includin
 * "Resort Hotel Prices" are much Higher during the 'Summer', whereas at the same time, "Prices" of a "City Hotel" doesn't varied that much.
    On the other hand, "City Hotels" are Expensive during the 'Spring' or 'Autumn' Season (i.e. In 'May' and 'August').
 * Almost "77.3%" of the Bookings are definitely prefer 'Bed & Breakfast'. Secondly, 'Half Board' (Breakfast and Dinner) kind of Meal's were prefered by around "12.1%" of guests and "8.92%" of guests prefer 'Self-Catering' (No Meals) kind of Bookings.
-* Most of the Customers are not made any kind of 'Special Requests'.
-   Or Almost "50%" of the Bookings don't have any kind of 'Special Requests'.
 * In terms of "City Hotel", We have More Guests during the 'Autumn' & 'Spring' Season when the Prices are also 'Highest'. 
     * Whereas In terms of our "Resort Hotel", the 'Most busiest Month' is "August" followed by "July" & "October".
     * In a Nutshell, Will can say, both the Hotels have the Fewest Guests during the "Winter" (i.e. Jan, Nov & Dec) And although Prices are also Lower.
-* Majority of People are prefer to Stay in the "City Hotel", mostly for '3' Nights. It might because of the "Prices" of a "City Hotel" doesn't varied much when we compared it with "Resort Hotel".
 * "Online TA" is going to Dominate on each and every Category of Market Segment by '47.5%'. We can also say that, Almost "50%" of the Bookings are takes place in this "Online" way.
 * Almost "75%" of Cancel Bookings are with respect to our "City Hotel, whereas "25%" are with respect to our "Resort Hotel Bookings".
 * "August" Month has the Highest Number of Cancellations followed by "July" & "May".
